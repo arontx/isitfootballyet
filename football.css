@@ -1,5 +1,6 @@
 	table{
-		
+		margin-left: auto;
+		margin-right:auto;
 	}
 	body{
 		background-color: #244b35;
@@ -12,13 +13,19 @@
 		font-size: 32px;
 /*		color: rgb(0, 0, 0);*/
 		color: #f3c04d;
-		display: block;
+		/*display: block;*/
 		font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 		font-weight: bold;
 		letter-spacing: -1px;
 		}
+	td.right{
+		text-align: right;
+	}
+	td.left{
+		padding-left: .25em;
+	}
 	.fhead{
-		margin-top:200px;
+		margin-top:100pt;
 		text-align:center;
 		font-size: 120px;
 /*		color: rgb(0, 0, 0);*/
