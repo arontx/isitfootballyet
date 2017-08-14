@@ -1,98 +1,98 @@
 [
-	{
-		"id":"1",
-		"opponent":"Northwestern State Demons",
-		"location":"Home",
-		"date":"2016-09-02",
-		"kickoff":"18:30",
-		"televised":"FSN"
-	},
-	{
-		"id":"2",
-		"opponent":"SMU Mustangs",
-		"location":"Home",
-		"date":"2016-09-10",
-		"kickoff":"14:30",
-		"televised":"FS1"
-	},
-	{
-		"id":"3",
-		"opponent":"Rice Owls",
-		"location":"Away",
-		"date":"2016-09-16",
-		"kickoff":"19:00",
-		"televised":"FS1"
-	},
-	{
-		"id":"4",
-		"opponent":"OkSt Cowboyws",
-		"location":"Home",
-		"date":"2016-09-24",
-		"kickoff":"TBA",
-		"televised":"FS1"
-	},
-	{
-		"id":"5",
-		"opponent":"Iowa State Cyclnes",
-		"location":"Away",
-		"date":"2016-10-01",
-		"kickoff":"19:00",
-		"televised":"FS1"
-	},
-	{
-		"id":"6",
-		"opponent":"Kansas Jayhawks",
-		"location":"Home",
-		"date":"2016-10-15",
-		"kickoff":"TBA00",
-		"televised":"FS1"
-	},
-	{
-		"id":"7",
-		"opponent":"Texas Longhorns",
-		"location":"Away",
-		"date":"2016-10-29",
-		"kickoff":"TBA",
-		"televised":"FS1"
-	},
-	{
-		"id":"8",
-		"opponent":"TCU Horned Frogs",
-		"location":"Home",
-		"date":"2016-11-05",
-		"kickoff":"TBA",
-		"televised":"FS1"
-	},
-	{
-		"id":"9",
-		"opponent":"Oklahoma Sooners",
-		"location":"Away",
-		"date":"2016-11-12",
-		"kickoff":"TBA",
-		"televised":"FS1"
-	},
-	{
-		"id":"10",
-		"opponent":"KState Wildcats",
-		"location":"Home",
-		"date":"2016-11-19",
-		"kickoff":"TBA",
-		"televised":"FS1"
-	},
-	{
-		"id":"11",
-		"opponent":"Texas Tech Red Raiders",
-		"location":"Away",
-		"date":"2016-11-25",
-		"kickoff":"TBA",
-		"televised":"FS1"
-	},
-	{
-		"id":"12",
-		"opponent":"W. Virginia Mountaineers",
-		"location":"Away",
-		"date":"2016-12-03",
-		"kickoff":"TBA",
-		"televised":"FS1"
-	}
+    {
+        "id":"2025931",
+        "date":"2017-09-02",
+        "opponent":"Liberty",
+        "location":"Home",
+        "kickoff":"TBA",
+        "televised":"TBA"
+    },
+    {
+        "id":"2025932",
+        "date":"2017-09-09",
+        "opponent":"UTSA",
+        "location":"Home",
+        "kickoff":"TBA",
+        "televised":"TBA"
+    },
+    {
+        "id":"2025933",
+        "date":"2017-09-16",
+        "opponent":"Duke",
+        "location":"Away",
+        "kickoff":"TBA",
+        "televised":"TBA"
+    },
+    {
+        "id":"2025934",
+        "date":"2017-09-23",
+        "opponent":"Oklahoma",
+        "location":"Home",
+        "kickoff":"TBA",
+        "televised":"TBA"
+    },
+    {
+        "id":"2025935",
+        "date":"2017-09-30",
+        "opponent":"Kansas State", 
+        "location":"Away",
+        "kickoff":"TBA",
+        "televised":"TBA"
+    },
+    {
+        "id":"2025936",
+        "date":"2017-10-14",
+        "opponent":"Oklahoma State", 
+        "location":"Away",
+        "kickoff":"TBA",
+        "televised":"TBA"
+    },
+    {
+        "id":"2025937",
+        "date":"2017-10-21",
+        "opponent":"West Virginia (Homecoming)", 
+        "location":"Home",
+        "kickoff":"TBA",
+        "televised":"TBA"
+    },
+    {
+        "id":"2025938",
+        "date":"2017-10-28",
+        "opponent":"Texas", 
+        "location":"Home",
+        "kickoff":"TBA",
+        "televised":"TBA"
+    },
+    {
+        "id":"2025939",
+        "date":"2017-11-04",
+        "opponent":"Kansas",
+        "location":"Away",
+        "kickoff":"TBA",
+        "televised":"TBA"
+    },
+    {
+        "id":"2025940",
+        "date":"2017-11-11",
+        "opponent":"Texas Tech", 
+        "location":"Away",
+        "kickoff":"TBA",
+        "televised":"TBA"
+    },
+    {
+        "id":"2025941",
+        "date":"2017-11-18",
+        "opponent":"Iowa State", 
+        "location":"Home",
+        "kickoff":"TBA",
+        "televised":"TBA"
+    },
+    {
+        "id":"2025930",
+        "date":"2017-11-25",
+        "opponent":"TCU",
+        "location":"Away",
+        "kickoff":"TBA",
+        "televised":"TBA"
+    }
 ]
